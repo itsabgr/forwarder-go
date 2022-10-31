@@ -1,0 +1,4 @@
+# github.com/go-log/log v0.2.0
+## explicit; go 1.13
+github.com/go-log/log
+github.com/go-log/log/log
